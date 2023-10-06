@@ -4,7 +4,9 @@ import './App.css'
 function App() {
   return (
     <>
-      <h1>Prathmesh Gavande</h1>
+      <h1 className="bg-amber-300 text-3xl font-bold underline">
+      Hello world!
+      </h1>
     </>
   )
 }
